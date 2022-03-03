@@ -1,4 +1,21 @@
 {
+  "CF148238783": {
+    "contest_id": 4,
+    "language": "Python 3",
+    "path": "codeforces/4/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Watermelon",
+    "problem_url": "https://codeforces.com/contest/4/problem/A",
+    "submission_id": "CF148238783",
+    "submission_url": "https://codeforces.com/contest/4/submission/148238783",
+    "tags": [
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/03/2022 21:35"
+  },
   "CF150276196": {
     "contest_id": 1102,
     "language": "GNU C11",
