@@ -1,4 +1,20 @@
 {
+  "CF175535304": {
+    "contest_id": 1669,
+    "language": "GNU C++17",
+    "path": "codeforces/1669/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Division?",
+    "problem_url": "https://codeforces.com/contest/1669/problem/A",
+    "submission_id": "CF175535304",
+    "submission_url": "https://codeforces.com/contest/1669/submission/175535304",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/11/2022 11:09"
+  },
   "CF175603300": {
     "contest_id": 1741,
     "language": "GNU C++17",
