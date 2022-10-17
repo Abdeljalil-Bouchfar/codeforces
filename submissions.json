@@ -1,4 +1,23 @@
 {
+  "CF176715742": {
+    "contest_id": 1743,
+    "language": "GNU C++17",
+    "path": "codeforces/1743/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Password",
+    "problem_url": "https://codeforces.com/contest/1743/problem/A",
+    "submission_id": "CF176715742",
+    "submission_url": "https://codeforces.com/contest/1743/submission/176715742",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/17/2022 14:49"
+  },
   "CF176727110": {
     "contest_id": 1743,
     "language": "GNU C++17",
