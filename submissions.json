@@ -1,4 +1,20 @@
 {
+  "CF181479602": {
+    "contest_id": 1759,
+    "language": "GNU C++17",
+    "path": "codeforces/1759/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lost Permutation",
+    "problem_url": "https://codeforces.com/contest/1759/problem/B",
+    "submission_id": "CF181479602",
+    "submission_url": "https://codeforces.com/contest/1759/submission/181479602",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/18/2022 15:42"
+  },
   "CF181737505": {
     "contest_id": 1676,
     "language": "GNU C++17",
