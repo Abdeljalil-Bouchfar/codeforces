@@ -12,15 +12,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-57 | [B - Following Directions](https://codeforces.com/contest/1791/problem/B) | [GNU C++17](./codeforces/1791/B.cpp) | `geometry` `implementation` `*800` | May/09/2023 23:14 | 
-56 | [A - Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | [GNU C++17](./codeforces/1791/A.cpp) | `implementation` `strings` `*800` | May/09/2023 23:01 | 
-55 | [A - Spell Check](https://codeforces.com/contest/1722/problem/A) | [GNU C++17](./codeforces/1722/A.cpp) | `implementation` `*800` | May/08/2023 21:41 | 
-54 | [A - Marathon](https://codeforces.com/contest/1692/problem/A) | [GNU C++17](./codeforces/1692/A.cpp) | `implementation` `*800` | May/07/2023 22:58 | 
-53 | [E - The Lakes](https://codeforces.com/contest/1829/problem/E) | [GNU C++17](./codeforces/1829/E.cpp) | `dfs and similar` `dsu` `graphs` `implementation` | May/06/2023 17:08 | 
-52 | [D - Gold Rush](https://codeforces.com/contest/1829/problem/D) | [GNU C++17](./codeforces/1829/D.cpp) | `brute force` `dfs and similar` `dp` `implementation` | May/06/2023 16:27 | 
-51 | [C - Mr. Perfectly Fine](https://codeforces.com/contest/1829/problem/C) | [GNU C++17](./codeforces/1829/C.cpp) | `bitmasks` `greedy` `implementation` | May/06/2023 16:05 | 
-50 | [B - Blank Space](https://codeforces.com/contest/1829/problem/B) | [GNU C++17](./codeforces/1829/B.cpp) | `implementation` | May/06/2023 15:41 | 
-49 | [A - Love Story](https://codeforces.com/contest/1829/problem/A) | [GNU C++17](./codeforces/1829/A.cpp) | `implementation` `strings` | May/06/2023 15:37 | 
+58 | [B - Following Directions](https://codeforces.com/contest/1791/problem/B) | [GNU C++17](./codeforces/1791/B.cpp) | `geometry` `implementation` `*800` | May/09/2023 23:14 | 
+57 | [A - Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | [GNU C++17](./codeforces/1791/A.cpp) | `implementation` `strings` `*800` | May/09/2023 23:01 | 
+56 | [A - Spell Check](https://codeforces.com/contest/1722/problem/A) | [GNU C++17](./codeforces/1722/A.cpp) | `implementation` `*800` | May/08/2023 21:41 | 
+55 | [A - Marathon](https://codeforces.com/contest/1692/problem/A) | [GNU C++17](./codeforces/1692/A.cpp) | `implementation` `*800` | May/07/2023 22:58 | 
+54 | [E - The Lakes](https://codeforces.com/contest/1829/problem/E) | [GNU C++17](./codeforces/1829/E.cpp) | `dfs and similar` `dsu` `graphs` `implementation` | May/06/2023 17:08 | 
+53 | [D - Gold Rush](https://codeforces.com/contest/1829/problem/D) | [GNU C++17](./codeforces/1829/D.cpp) | `brute force` `dfs and similar` `dp` `implementation` | May/06/2023 16:27 | 
+52 | [C - Mr. Perfectly Fine](https://codeforces.com/contest/1829/problem/C) | [GNU C++17](./codeforces/1829/C.cpp) | `bitmasks` `greedy` `implementation` | May/06/2023 16:05 | 
+51 | [B - Blank Space](https://codeforces.com/contest/1829/problem/B) | [GNU C++17](./codeforces/1829/B.cpp) | `implementation` | May/06/2023 15:41 | 
+50 | [A - Love Story](https://codeforces.com/contest/1829/problem/A) | [GNU C++17](./codeforces/1829/A.cpp) | `implementation` `strings` | May/06/2023 15:37 | 
+49 | [A - Trust Nobody](https://codeforces.com/contest/1826/problem/A) | [GNU C++17](./codeforces/1826/A.cpp) | `brute force` `greedy` `implementation` `sortings` | May/05/2023 22:23 | 
 48 | [A - Domino piling](https://codeforces.com/contest/50/problem/A) | [GNU C++17](./codeforces/50/A.cpp) | `greedy` `math` `*800` | Apr/25/2023 20:14 | 
 47 | [A - Word Capitalization](https://codeforces.com/contest/281/problem/A) | [GNU C++17](./codeforces/281/A.cpp) | `implementation` `strings` `*800` | Mar/22/2023 22:38 | 
 46 | [E - Interview](https://codeforces.com/contest/1807/problem/E) | [GNU C++17](./codeforces/1807/E.cpp) | `binary search` `implementation` `interactive` `*1300` | Mar/20/2023 13:58 | 
