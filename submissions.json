@@ -817,6 +817,24 @@
     ],
     "timestamp": "Apr/25/2023 20:14"
   },
+  "CF204822114": {
+    "contest_id": 1829,
+    "language": "GNU C++17",
+    "path": "codeforces/1829/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Gold Rush",
+    "problem_url": "https://codeforces.com/contest/1829/problem/D",
+    "submission_id": "CF204822114",
+    "submission_url": "https://codeforces.com/contest/1829/submission/204822114",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "implementation"
+    ],
+    "timestamp": "May/06/2023 16:27"
+  },
   "CF204852111": {
     "contest_id": 1829,
     "language": "GNU C++17",
