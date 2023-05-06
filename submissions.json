@@ -817,6 +817,22 @@
     ],
     "timestamp": "Apr/25/2023 20:14"
   },
+  "CF204756456": {
+    "contest_id": 1829,
+    "language": "GNU C++17",
+    "path": "codeforces/1829/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Love Story",
+    "problem_url": "https://codeforces.com/contest/1829/problem/A",
+    "submission_id": "CF204756456",
+    "submission_url": "https://codeforces.com/contest/1829/submission/204756456",
+    "tags": [
+      "implementation",
+      "strings"
+    ],
+    "timestamp": "May/06/2023 15:37"
+  },
   "CF204767405": {
     "contest_id": 1829,
     "language": "GNU C++17",
