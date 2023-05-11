@@ -1018,5 +1018,22 @@
       "*1200"
     ],
     "timestamp": "May/10/2023 23:31"
+  },
+  "CF205444394": {
+    "contest_id": 1669,
+    "language": "GNU C++17",
+    "path": "codeforces/1669/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Triple",
+    "problem_url": "https://codeforces.com/contest/1669/problem/B",
+    "submission_id": "CF205444394",
+    "submission_url": "https://codeforces.com/contest/1669/submission/205444394",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/11/2023 15:43"
   }
 }
