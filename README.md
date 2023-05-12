@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+62 | [A - New Palindrome](https://codeforces.com/contest/1832/problem/A) | [GNU C++17](./codeforces/1832/A.cpp) | `greedy` `strings` | May/12/2023 15:49 | 
 61 | [B - All Distinct](https://codeforces.com/contest/1692/problem/B) | [GNU C++17](./codeforces/1692/B.cpp) | `greedy` `sortings` `*800` | May/11/2023 22:43 | 
 60 | [B - Triple](https://codeforces.com/contest/1669/problem/B) | [GNU C++17](./codeforces/1669/B.cpp) | `implementation` `sortings` `*800` | May/11/2023 15:43 | 
 59 | [B - Same Parity Summands](https://codeforces.com/contest/1352/problem/B) | [GNU C++17](./codeforces/1352/B.cpp) | `constructive algorithms` `math` `*1200` | May/10/2023 23:31 | 

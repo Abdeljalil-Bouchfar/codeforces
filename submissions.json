@@ -1052,5 +1052,21 @@
       "*800"
     ],
     "timestamp": "May/11/2023 22:43"
+  },
+  "CF205563997": {
+    "contest_id": 1832,
+    "language": "GNU C++17",
+    "path": "codeforces/1832/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Palindrome",
+    "problem_url": "https://codeforces.com/contest/1832/problem/A",
+    "submission_id": "CF205563997",
+    "submission_url": "https://codeforces.com/contest/1832/submission/205563997",
+    "tags": [
+      "greedy",
+      "strings"
+    ],
+    "timestamp": "May/12/2023 15:49"
   }
 }
