@@ -1068,5 +1068,21 @@
       "strings"
     ],
     "timestamp": "May/12/2023 15:49"
+  },
+  "CF205769363": {
+    "contest_id": 1832,
+    "language": "GNU C++17",
+    "path": "codeforces/1832/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maximum Sum",
+    "problem_url": "https://codeforces.com/contest/1832/problem/B",
+    "submission_id": "CF205769363",
+    "submission_url": "https://codeforces.com/contest/1832/submission/205769363",
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "timestamp": "May/13/2023 23:01"
   }
 }
