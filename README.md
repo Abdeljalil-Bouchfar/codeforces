@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+66 | [A - Theatre Square](https://codeforces.com/contest/1/problem/A) | [GNU C++17](./codeforces/1/A.cpp) | `math` `*1000` | May/16/2023 22:51 | 
 65 | [B - Permutation Swap](https://codeforces.com/contest/1828/problem/B) | [GNU C++17](./codeforces/1828/B.cpp) | `math` `number theory` | May/15/2023 10:14 | 
 64 | [A - Divisible Array](https://codeforces.com/contest/1828/problem/A) | [GNU C++17](./codeforces/1828/A.cpp) | `constructive algorithms` `math` | May/14/2023 16:31 | 
 63 | [B - Maximum Sum](https://codeforces.com/contest/1832/problem/B) | [GNU C++17](./codeforces/1832/B.cpp) | `greedy` `sortings` | May/13/2023 23:01 | 
