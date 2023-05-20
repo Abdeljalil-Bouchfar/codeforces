@@ -7,26 +7,26 @@ void solve()
 {
     ll n, k, ans = 0;
     cin >> n >> k;
-    vector<ll> as(n);
-    vector<ll> bs(n);
-    vector<ll> res(n);
-    vector<pair<ll, ll>> ainx(n);
-    for (ll i = 0; i < n; i++)
+    vector<int> as(n);
+    vector<int> bs(n);
+    vector<int> res(n);
+    vector<pair<int, int>> ainx(n);
+    for (int i = 0; i < n; i++)
     {
         cin >> as[i];
         ainx[i] = {as[i], i};
     }
-    for (ll i = 0; i < n; i++)
+    sort(ainx.begin(), ainx.end());
+    for (int i = 0; i < n; i++)
     {
         cin >> bs[i];
     }
-    sort(ainx.begin(), ainx.end());
     sort(bs.begin(), bs.end());
-    for (ll i = n - 1; i >= 0; i--)
+    for (int i = n - 1; i >= 0; --i)
     {
         res[ainx[i].second] = bs[i];
     }
-    for (ll i = 0; i < n; i++)
+    for (int i = 0; i < n; i++)
     {
         cout << res[i] << " ";
     }
