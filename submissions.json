@@ -1229,5 +1229,22 @@
       "greedy"
     ],
     "timestamp": "May/19/2023 17:21"
+  },
+  "CF206845757": {
+    "contest_id": 131,
+    "language": "GNU C++17",
+    "path": "codeforces/131/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "cAPS lOCK",
+    "problem_url": "https://codeforces.com/contest/131/problem/A",
+    "submission_id": "CF206845757",
+    "submission_url": "https://codeforces.com/contest/131/submission/206845757",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "May/22/2023 14:51"
   }
 }
