@@ -1281,6 +1281,23 @@
     ],
     "timestamp": "May/22/2023 14:51"
   },
+  "CF208723691": {
+    "contest_id": 1840,
+    "language": "GNU C++17",
+    "path": "codeforces/1840/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cipher Shifer",
+    "problem_url": "https://codeforces.com/contest/1840/problem/A",
+    "submission_id": "CF208723691",
+    "submission_url": "https://codeforces.com/contest/1840/submission/208723691",
+    "tags": [
+      "implementation",
+      "strings",
+      "two pointers"
+    ],
+    "timestamp": "Jun/06/2023 15:40"
+  },
   "CF208928297": {
     "contest_id": 731,
     "language": "GNU C++17",
