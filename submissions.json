@@ -1466,6 +1466,22 @@
     ],
     "timestamp": "Jun/08/2023 16:49"
   },
+  "CF209411940": {
+    "contest_id": 1841,
+    "language": "GNU C++17",
+    "path": "codeforces/1841/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Game with Board",
+    "problem_url": "https://codeforces.com/contest/1841/problem/A",
+    "submission_id": "CF209411940",
+    "submission_url": "https://codeforces.com/contest/1841/submission/209411940",
+    "tags": [
+      "constructive algorithms",
+      "games"
+    ],
+    "timestamp": "Jun/12/2023 15:56"
+  },
   "CF209582327": {
     "contest_id": 158,
     "language": "GNU C++17",
