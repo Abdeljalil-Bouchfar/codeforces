@@ -1533,6 +1533,23 @@
     ],
     "timestamp": "Jun/13/2023 16:29"
   },
+  "CF210137641": {
+    "contest_id": 1836,
+    "language": "GNU C++17",
+    "path": "codeforces/1836/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Destroyer",
+    "problem_url": "https://codeforces.com/contest/1836/problem/A",
+    "submission_id": "CF210137641",
+    "submission_url": "https://codeforces.com/contest/1836/submission/210137641",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jun/18/2023 16:23"
+  },
   "CF210380465": {
     "contest_id": 1843,
     "language": "GNU C++17",
