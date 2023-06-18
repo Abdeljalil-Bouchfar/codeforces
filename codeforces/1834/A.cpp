@@ -5,11 +5,14 @@ using namespace std;
  
 void solve()
 {
-    ll n, ans = 0;
+    ll n;
     cin >> n;
     vector<int> arr(n);
+    int topp = 0, opp = 0;
     for (int i = 0; i < n; i++)
+    {
         cin >> arr[i];
+    }
 
     if (accumulate(arr.begin(), arr.end(), 0) >= 0 && accumulate(arr.begin(), arr.end(), 1, std::multiplies<double>()) == 1)
     {
@@ -17,14 +20,31 @@ void solve()
         return;
     }
 
-    for (int i = 0; i < n; i++)
+    int i = 0;
+    vector<int> tarr = arr;
+    for (; i < n; i++)
     {
-        if (arr[i] == -1)
-            arr[i] = 1, ans++;
-         if (accumulate(arr.begin(), arr.end(), 0) >= 0 && accumulate(arr.begin(), arr.end(), 1, multiplies<double>()) == 1)
+        if (tarr[i] == -1)
+            tarr[i] = 1, topp++;
+         if (accumulate(tarr.begin(), tarr.end(), 0) >= 0 && accumulate(tarr.begin(), tarr.end(), 1, std::multiplies<double>()) == 1)
             break;
     }
-    cout << ans << endl;
+    if (i == n)
+        topp = 1000000;
+
+
+    i = 0;
+    for (; i < n; i++)
+    {
+        if (arr[i] == 1)
+            arr[i] = -1, opp++;
+         if (accumulate(arr.begin(), arr.end(), 0) >= 0 && accumulate(arr.begin(), arr.end(), 1, std::multiplies<double>()) == 1)
+            break;
+    }
+    if (i == n)
+        opp = 1000000;
+
+    cout << min(opp, topp) << endl;
 }
  
 int main()

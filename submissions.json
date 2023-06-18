@@ -1533,6 +1533,23 @@
     ],
     "timestamp": "Jun/13/2023 16:29"
   },
+  "CF210049863": {
+    "contest_id": 1834,
+    "language": "GNU C++17",
+    "path": "codeforces/1834/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Unit Array",
+    "problem_url": "https://codeforces.com/contest/1834/problem/A",
+    "submission_id": "CF210049863",
+    "submission_url": "https://codeforces.com/contest/1834/submission/210049863",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/18/2023 09:38"
+  },
   "CF210093068": {
     "contest_id": 1834,
     "language": "GNU C++17",
