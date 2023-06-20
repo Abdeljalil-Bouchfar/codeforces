@@ -1533,6 +1533,23 @@
     ],
     "timestamp": "Jun/13/2023 16:29"
   },
+  "CF210380465": {
+    "contest_id": 1843,
+    "language": "GNU C++17",
+    "path": "codeforces/1843/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sasha and Array Coloring",
+    "problem_url": "https://codeforces.com/contest/1843/problem/A",
+    "submission_id": "CF210380465",
+    "submission_url": "https://codeforces.com/contest/1843/submission/210380465",
+    "tags": [
+      "greedy",
+      "sortings",
+      "two pointers"
+    ],
+    "timestamp": "Jun/20/2023 15:51"
+  },
   "CF210425277": {
     "contest_id": 1843,
     "language": "GNU C++17",
