@@ -12,14 +12,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-102 | [B - Parity Sort](https://codeforces.com/contest/1851/problem/B) | [GNU C++17](./codeforces/1851/B.cpp) | `sortings` `two pointers` | Jul/26/2023 11:55 | 
-101 | [C - Tiles Comeback](https://codeforces.com/contest/1851/problem/C) | [GNU C++17](./codeforces/1851/C.cpp) | `greedy` `implementation` | Jul/25/2023 17:11 | 
-100 | [A - Escalator Conversations](https://codeforces.com/contest/1851/problem/A) | [GNU C++17](./codeforces/1851/A.cpp) | `brute force` `constructive algorithms` `implementation` `math` | Jul/25/2023 15:57 | 
-99 | [B - Rudolph and Tic-Tac-Toe](https://codeforces.com/contest/1846/problem/B) | [GNU C++17](./codeforces/1846/B.cpp) | `brute force` `implementation` `strings` `*800` | Jul/23/2023 16:03 | 
-98 | [A - Rudolph and Cut the Rope ](https://codeforces.com/contest/1846/problem/A) | [GNU C++17](./codeforces/1846/A.cpp) | `implementation` `math` `*800` | Jul/23/2023 15:50 | 
-97 | [D - Balanced Round](https://codeforces.com/contest/1850/problem/D) | [GNU C++17](./codeforces/1850/D.cpp) | `brute force` `greedy` `implementation` `sortings` `*900` | Jul/22/2023 16:12 | 
-96 | [C - Word on the Paper](https://codeforces.com/contest/1850/problem/C) | [GNU C++17](./codeforces/1850/C.cpp) | `implementation` `strings` `*800` | Jul/21/2023 15:49 | 
-95 | [B - Ten Words of Wisdom](https://codeforces.com/contest/1850/problem/B) | [GNU C++17](./codeforces/1850/B.cpp) | `implementation` `sortings` `*800` | Jul/21/2023 15:43 | 
+103 | [B - Parity Sort](https://codeforces.com/contest/1851/problem/B) | [GNU C++17](./codeforces/1851/B.cpp) | `sortings` `two pointers` | Jul/26/2023 11:55 | 
+102 | [C - Tiles Comeback](https://codeforces.com/contest/1851/problem/C) | [GNU C++17](./codeforces/1851/C.cpp) | `greedy` `implementation` | Jul/25/2023 17:11 | 
+101 | [A - Escalator Conversations](https://codeforces.com/contest/1851/problem/A) | [GNU C++17](./codeforces/1851/A.cpp) | `brute force` `constructive algorithms` `implementation` `math` | Jul/25/2023 15:57 | 
+100 | [B - Rudolph and Tic-Tac-Toe](https://codeforces.com/contest/1846/problem/B) | [GNU C++17](./codeforces/1846/B.cpp) | `brute force` `implementation` `strings` `*800` | Jul/23/2023 16:03 | 
+99 | [A - Rudolph and Cut the Rope ](https://codeforces.com/contest/1846/problem/A) | [GNU C++17](./codeforces/1846/A.cpp) | `implementation` `math` `*800` | Jul/23/2023 15:50 | 
+98 | [D - Balanced Round](https://codeforces.com/contest/1850/problem/D) | [GNU C++17](./codeforces/1850/D.cpp) | `brute force` `greedy` `implementation` `sortings` `*900` | Jul/22/2023 16:12 | 
+97 | [C - Word on the Paper](https://codeforces.com/contest/1850/problem/C) | [GNU C++17](./codeforces/1850/C.cpp) | `implementation` `strings` `*800` | Jul/21/2023 15:49 | 
+96 | [B - Ten Words of Wisdom](https://codeforces.com/contest/1850/problem/B) | [GNU C++17](./codeforces/1850/B.cpp) | `implementation` `sortings` `*800` | Jul/21/2023 15:43 | 
+95 | [A - To My Critics](https://codeforces.com/contest/1850/problem/A) | [GNU C++17](./codeforces/1850/A.cpp) | `implementation` `sortings` `*800` | Jul/21/2023 15:38 | 
 94 | [C - Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | [GNU C++17](./codeforces/1843/C.cpp) | `bitmasks` `combinatorics` `math` `trees` | Jun/20/2023 17:04 | 
 93 | [B - Long Long](https://codeforces.com/contest/1843/problem/B) | [GNU C++17](./codeforces/1843/B.cpp) | `greedy` `math` `two pointers` | Jun/20/2023 16:43 | 
 92 | [A - Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | [GNU C++17](./codeforces/1843/A.cpp) | `greedy` `sortings` `two pointers` | Jun/20/2023 15:51 | 
