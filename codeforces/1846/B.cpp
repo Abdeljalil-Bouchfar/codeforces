@@ -8,19 +8,30 @@ void solve()
     string b[3];
     
     cin >> b[0] >> b[1] >> b[2];
-    string ans = "DRAW";
     for (int i = 0; i < 3; i++)
     {
         if (b[i][0] != '.' && b[i][0] == b[i][1] && b[i][1] == b[i][2])
-                ans = b[i][0];
+        {
+            cout << b[i][0] << endl;
+            return;
+        }
         else if (b[0][i] != '.' && b[0][i] == b[1][i] && b[1][i] == b[2][i])
-                ans = b[0][i];
+        {
+            cout << b[0][i] << endl;
+            return;
+        }
     }
     if ((b[0][0] != '.' && b[0][0] == b[1][1] && b[1][1] == b[2][2]))
-        ans = b[0][0];
+    {
+        cout << b[0][0] << endl;
+        return;
+    }
     if ((b[0][2] != '.' && b[0][2] == b[1][1] && b[1][1] == b[2][0]))
-        ans = b[0][2];
-    cout << ans << endl;
+    {
+        cout << b[0][2] << endl;
+        return;
+    }
+    cout << "DRAW" << endl;
 }
  
 int main()
