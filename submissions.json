@@ -1636,6 +1636,24 @@
     ],
     "timestamp": "Jun/20/2023 17:04"
   },
+  "CF215532739": {
+    "contest_id": 1851,
+    "language": "GNU C++17",
+    "path": "codeforces/1851/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Escalator Conversations",
+    "problem_url": "https://codeforces.com/contest/1851/problem/A",
+    "submission_id": "CF215532739",
+    "submission_url": "https://codeforces.com/contest/1851/submission/215532739",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Jul/25/2023 15:57"
+  },
   "CF215594209": {
     "contest_id": 1851,
     "language": "GNU C++17",
