@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+104 | [A - Two Substrings](https://codeforces.com/contest/550/problem/A) | [GNU C++17](./codeforces/550/A.cpp) | `brute force` `dp` `greedy` `implementation` `strings` `*1500` | Jul/29/2023 18:00 | 
 103 | [B - Parity Sort](https://codeforces.com/contest/1851/problem/B) | [GNU C++17](./codeforces/1851/B.cpp) | `sortings` `two pointers` | Jul/26/2023 11:55 | 
 102 | [C - Tiles Comeback](https://codeforces.com/contest/1851/problem/C) | [GNU C++17](./codeforces/1851/C.cpp) | `greedy` `implementation` | Jul/25/2023 17:11 | 
 101 | [A - Escalator Conversations](https://codeforces.com/contest/1851/problem/A) | [GNU C++17](./codeforces/1851/A.cpp) | `brute force` `constructive algorithms` `implementation` `math` | Jul/25/2023 15:57 | 
