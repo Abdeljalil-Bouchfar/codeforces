@@ -3,6 +3,60 @@
 typedef long long ll;
 using namespace std;
 
+int bs(int n, ll t, ll *sum)
+{
+    int s = 0, e = n - 1;
+    while (s < e)
+    {
+        int mid = s + (e - e) / 2;
+        if (sum[mid] == t)
+            return mid;
+        if (sum[mid] < t)
+            s = mid + 1;
+        else
+            e = mid - 1;
+    }
+    return s;
+}
+
+// #include <bits/stdc++.h>
+// using namespace std;
+// int main()
+// {
+//     int t;
+//     cin >> t;
+//     for (int i = 0; i < t; i++)
+//     {
+//         int n, q;
+//         cin >> n >> q;
+//         vector<int> a(n);
+//         for (int j = 0; j < n; j++)
+//         {
+//             cin >> a[j];
+//         }
+//         sort(a.begin(), a.end(), greater<int>());
+//         vector<int> S(n + 1);
+//         S[0] = 0;
+//         for (int j = 0; j < n; j++)
+//         {
+//             S[j + 1] = S[j] + a[j];
+//         }
+//         for (int j = 0; j < q; j++)
+//         {
+//             int x;
+//             cin >> x;
+//             if (x > S[n])
+//             {
+//                 cout << -1 << "\n";
+//             }
+//             else
+//             {
+//                 cout << lower_bound(S.begin(), S.end(), x) - S.begin() << "\n";
+//             }
+//         }
+//     }
+// }
+
 void solve()
 {
     ll n, q;
