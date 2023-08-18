@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-111 | [D - Alice, Bob and Candies](https://codeforces.com/contest/1352/problem/D) | [GNU C++17](./codeforces/1352/D.cpp) | `implementation` `*1300` | Sep/09/2023 16:59 | 
-110 | [B - The Corridor or There and Back Again](https://codeforces.com/contest/1872/problem/B) | [GNU C++17](./codeforces/1872/B.cpp) | `greedy` `implementation` | Sep/07/2023 18:23 | 
-109 | [A - Two Vessels](https://codeforces.com/contest/1872/problem/A) | [GNU C++17](./codeforces/1872/A.cpp) | `brute force` `greedy` `math` | Sep/07/2023 18:07 | 
-108 | [B - Sequence Game](https://codeforces.com/contest/1862/problem/B) | [GNU C++17](./codeforces/1862/B.cpp) | `constructive algorithms` | Aug/24/2023 16:04 | 
-107 | [A - Gift Carpet](https://codeforces.com/contest/1862/problem/A) | [GNU C++17](./codeforces/1862/A.cpp) | `dp` `greedy` `implementation` `strings` | Aug/24/2023 15:46 | 
+112 | [D - Alice, Bob and Candies](https://codeforces.com/contest/1352/problem/D) | [GNU C++17](./codeforces/1352/D.cpp) | `implementation` `*1300` | Sep/09/2023 16:59 | 
+111 | [B - The Corridor or There and Back Again](https://codeforces.com/contest/1872/problem/B) | [GNU C++17](./codeforces/1872/B.cpp) | `greedy` `implementation` | Sep/07/2023 18:23 | 
+110 | [A - Two Vessels](https://codeforces.com/contest/1872/problem/A) | [GNU C++17](./codeforces/1872/A.cpp) | `brute force` `greedy` `math` | Sep/07/2023 18:07 | 
+109 | [B - Sequence Game](https://codeforces.com/contest/1862/problem/B) | [GNU C++17](./codeforces/1862/B.cpp) | `constructive algorithms` | Aug/24/2023 16:04 | 
+108 | [A - Gift Carpet](https://codeforces.com/contest/1862/problem/A) | [GNU C++17](./codeforces/1862/A.cpp) | `dp` `greedy` `implementation` `strings` | Aug/24/2023 15:46 | 
+107 | [C - Where's the Bishop?](https://codeforces.com/contest/1692/problem/C) | [GNU C++17](./codeforces/1692/C.cpp) | `implementation` `*800` | Aug/18/2023 18:24 | 
 106 | [C - Kefa and Park](https://codeforces.com/contest/580/problem/C) | [GNU C++17](./codeforces/580/C.cpp) | `dfs and similar` `graphs` `trees` `*1500` | Jul/30/2023 18:12 | 
 105 | [A - Two Substrings](https://codeforces.com/contest/550/problem/A) | [GNU C++17](./codeforces/550/A.cpp) | `brute force` `dp` `greedy` `implementation` `strings` `*1500` | Jul/29/2023 18:00 | 
 104 | [A - Morning Sandwich](https://codeforces.com/contest/1849/problem/A) | [GNU C++17](./codeforces/1849/A.cpp) | `implementation` `math` | Jul/27/2023 21:45 | 
