@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-108 | [D - Alice, Bob and Candies](https://codeforces.com/contest/1352/problem/D) | [GNU C++17](./codeforces/1352/D.cpp) | `implementation` `*1300` | Sep/09/2023 16:59 | 
-107 | [B - The Corridor or There and Back Again](https://codeforces.com/contest/1872/problem/B) | [GNU C++17](./codeforces/1872/B.cpp) | `greedy` `implementation` | Sep/07/2023 18:23 | 
+109 | [D - Alice, Bob and Candies](https://codeforces.com/contest/1352/problem/D) | [GNU C++17](./codeforces/1352/D.cpp) | `implementation` `*1300` | Sep/09/2023 16:59 | 
+108 | [B - The Corridor or There and Back Again](https://codeforces.com/contest/1872/problem/B) | [GNU C++17](./codeforces/1872/B.cpp) | `greedy` `implementation` | Sep/07/2023 18:23 | 
+107 | [A - Two Vessels](https://codeforces.com/contest/1872/problem/A) | [GNU C++17](./codeforces/1872/A.cpp) | `brute force` `greedy` `math` | Sep/07/2023 18:07 | 
 106 | [C - Kefa and Park](https://codeforces.com/contest/580/problem/C) | [GNU C++17](./codeforces/580/C.cpp) | `dfs and similar` `graphs` `trees` `*1500` | Jul/30/2023 18:12 | 
 105 | [A - Two Substrings](https://codeforces.com/contest/550/problem/A) | [GNU C++17](./codeforces/550/A.cpp) | `brute force` `dp` `greedy` `implementation` `strings` `*1500` | Jul/29/2023 18:00 | 
 104 | [A - Morning Sandwich](https://codeforces.com/contest/1849/problem/A) | [GNU C++17](./codeforces/1849/A.cpp) | `implementation` `math` | Jul/27/2023 21:45 | 
